@@ -38,3 +38,5 @@ The API is made with [Flask](https://flask.palletsprojects.com/) and [Flask-REST
 It helps you to predict whether the resume is substantive or not.
 
 The description of the API can be found [here](./model.yaml)
+
+test
